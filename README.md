@@ -20,6 +20,8 @@
       - [Customer](#%EF%B8%8F-customer-)
 <br>
 
+Team Details
+1. I.Rohith kumar-9921005087@klu.ac.in(Kalasalingam Acadamey Of Research And Education),G.Ganesh Babu-9921005110@klu.ac.in(Kalasalingam Acadamey Of Research And Education) ,B.Himabindu-9822005013@klu.ac.in(Kalasalingam Acadamey Of Research And Education) ,G.Tejaswini-9921005054@klu.ac.in(Kalasalingam Acadamey Of Research And Education)
 ## 🖋 About Project:
 👉 An online banking system built using Python. This system allows the customer and banking staff/manager to manage all transactions easily. <br>
 👉 The primary purpose of this system is to simulate customer’s transaction management for Bank to maintain the detail of each transaction/record.<br><br>
