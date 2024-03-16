@@ -4,9 +4,6 @@
   <a href="https://www.github.com/caesarmario">
     <img src="https://img.shields.io/github/followers/caesarmario?style=social&link=https://www.github.com/caesarmario" alt"GitHub"/>
   </a>
-  <a href="https://linktr.ee/caesarmario_">
-    <img src="https://img.shields.io/badge/Follow%20My%20Other%20Works-019875?style=flat&labelColor=019875&link=https:/linktr.ee/caesarmario_" alt"Linktree"/>
-  </a>
 </p>
 <br>
 
